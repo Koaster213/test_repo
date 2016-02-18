@@ -1,2 +1,2 @@
 # test_repo
-Using the GiHub guide to learn how this works
+Using the Data School videos by Kevin Markham to learn how Git and GitHub work
